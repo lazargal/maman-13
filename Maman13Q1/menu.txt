@@ -1,0 +1,33 @@
+first main dish
+MAIN
+15.5
+second main Dish
+MAIN
+20.9
+first appetizer
+APPETIZER
+5
+second appetizer
+APPETIZER
+5
+third main Dish
+MAIN
+20.9
+1 dessert
+DESSERT
+20.7
+third appetizer
+APPETIZER
+5
+2 dessert
+DESSERT
+29.7
+1 drink
+DRINK
+66
+2 dessert
+DESSERT
+25.7
+2 drink
+DRINK
+55
