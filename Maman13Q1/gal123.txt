@@ -1,0 +1,6 @@
+first appetizer - 5.0 X 1 = 5.0
+third appetizer - 5.0 X 1 = 5.0
+second main Dish - 20.9 X 4 = 83.6
+2 dessert - 29.7 X 1 = 29.7
+1 drink - 66.0 X 3 = 198.0
+Total order cost = 321.3
